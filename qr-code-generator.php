@@ -5,8 +5,8 @@ Plugin Name: QR Code Generator
 Description: Simple QR Code Generator Plugin for any Website or any URL.
 Version: 1.0
 Author: Akanksha Jain
-Author URI: https://akankshajain.tech
-Plugin URI: https://akankshajain.tech
+Author URI: https://github.com/akankshajain99
+Plugin URI: https://github.com/akankshajain99/WP-QRC-Generator
 
 */
 
