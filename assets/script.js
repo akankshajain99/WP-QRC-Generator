@@ -10,5 +10,5 @@ jQuery(document).ready(function () {
 		document.getElementById("qr_frm").reset();
 
 		
-	})
+	});
 });
